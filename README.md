@@ -5,9 +5,9 @@ This is a project of finding top_k elements using gpu for accelerating the query
 Linux
 
 ### Dependencies
-c++ 14
-cuda 10.1
-Nvidia Graphics card
+- c++ 14
+- cuda 10.1
+- Nvidia Graphics card
 
 
 **Sampling**
